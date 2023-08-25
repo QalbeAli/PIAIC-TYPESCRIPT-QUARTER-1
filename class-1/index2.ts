@@ -1,0 +1,20 @@
+var message:string="Hey Abu Hurairah,I have started learning TYPESCRIPT."
+console.log(message);
+var num1:number=1;
+var num2:number=2;
+var num3:number=3;
+var num4:number=4;
+var num5:number=5;
+var num6:number=6;
+var num7:number=7;
+var num8:number=8;
+var num9:number=9;
+var num10:number=10;
+var addition=num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;
+var subtraction=num1-num2-num3-num4-num5-num6-num7-num8-num9-num10;
+var multiplication=num1*num2*num3*num4*num5*num6*num7*num8*num9*num10;
+var division=num5/num9;
+console.log("Addition of numbers is",addition);
+console.log("subtraction of numbers is",subtraction);
+console.log("Multiplication of numbers is",multiplication);
+console.log("Division of numbers is",division);
